@@ -1,0 +1,7 @@
+{
+  "PORT": "8000",
+
+  "db": "mongodb+srv://abedellaouihani:0000@cluster0.ucujhcf.mongodb.net/PRO11?retryWrites=true&w=majority&appName=Cluster0",
+
+  "secret": "shhhhh"
+}
